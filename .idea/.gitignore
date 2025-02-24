@@ -1,3 +1,13 @@
-# Default ignored files
-/shelf/
-/workspace.xml
+# Ignore IntelliJ IDEA files
+.idea/
+*.iml
+
+# Ignore compiled classes
+target/
+out/
+
+# Ignore log files
+*.log
+
+# Ignore data files (if you don’t want to track them)
+*.txt
