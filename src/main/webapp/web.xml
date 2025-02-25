@@ -1,0 +1,8 @@
+<servlet>
+    <servlet-name>AddServiceServlet</servlet-name>
+    <servlet-class>AddServiceServlet</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>AddServiceServlet</servlet-name>
+<url-pattern>/addService</url-pattern>
+</servlet-mapping>g>
