@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2db50fb8-93cb-4bbe-b0dc-3dbfdede157c" name="Changes" comment="Updated java src files" />
+    <list default="true" id="2db50fb8-93cb-4bbe-b0dc-3dbfdede157c" name="Changes" comment="test comment" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,12 +26,12 @@
     &quot;assignee&quot;: &quot;SadeeshaLK&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/SadeeshaLK/Car_Service_and_Maintenance_Tracker-CRUD.git&quot;,
-    &quot;accountId&quot;: &quot;2a5d9436-7215-43a0-b4ae-88a8e50fcaad&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/SadeeshaLK/Car_Service_and_Maintenance_Tracker-CRUD.git",
+    "accountId": "fb2c1411-a86e-41a3-bd4a-f1c58c16eb1b"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 7
@@ -58,7 +58,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/sadee/Downloads/javax.servlet-api-4.0.1-javadoc.jar",
+    "last_opened_file_path": "C:/Users/ASUS/Downloads/javax.servlet-api-4.0.1.jar",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -165,12 +165,37 @@
       <option name="project" value="LOCAL" />
       <updated>1740434102947</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test comment">
+      <option name="closed" value="true" />
+      <created>1740473339941</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740473339941</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test comment">
+      <option name="closed" value="true" />
+      <created>1740473521763</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1740473521763</updated>
+    </task>
+    <task id="LOCAL-00007" summary="test comment">
+      <option name="closed" value="true" />
+      <created>1740473607987</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1740473607987</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created direcotories" />
     <MESSAGE value="Updated java src files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated java src files" />
+    <MESSAGE value="test comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="test comment" />
   </component>
 </project>
