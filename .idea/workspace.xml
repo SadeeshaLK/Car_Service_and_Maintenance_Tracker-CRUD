@@ -5,42 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2db50fb8-93cb-4bbe-b0dc-3dbfdede157c" name="Changes" comment="test comment">
-      <change afterPath="$PROJECT_DIR$/src/main/libraries/javax.servlet-api-3.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/model/ServiceHistory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/model/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/services.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/servlet/AdminServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/servlet/DeleteUserServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/servlet/LoginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/servlet/LogoutServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/servlet/RegisterServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/servlet/ServiceServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/servlet/VehicleServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/users.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/utils/ServiceSorter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/vehicles.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/addVehicle.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/adminDashboard.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/manageServices.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/manageUsers.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/register.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/updateService.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/viewVehicles.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jakarta_servlet_api_5_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/servlet/EditUserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/servlet/UpdateUserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/editUser.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Car_Service_and_Maintenance_Tracker-CRUD.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Car_Service_and_Maintenance_Tracker-CRUD.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/javax_servlet_api_4_0_1_javadoc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/javax_servlet_api_4_0_1_javadoc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FileUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ServiceRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/model/ServiceRecord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/servlet/AddServiceServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/servlet/UserServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/servlet/ViewServiceServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/addService.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/addService.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/viewServices.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/viewService.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/model/ServiceHistory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/model/ServiceHistory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/services.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/servlet/AdminServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/servlet/DeleteUserServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/servlet/LoginServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/servlet/LogoutServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/servlet/RegisterServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/servlet/ServiceServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/servlet/VehicleServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/users.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/vehicles.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/manageServices.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/manageServices.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/manageUsers.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/manageUsers.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/viewService.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/viewService.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/viewVehicles.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/viewVehicles.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/web.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +56,9 @@
     &quot;accountId&quot;: &quot;b515d907-9bfd-4e5a-8627-ca06fb22b2fe&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/webapp/web.xml" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -99,14 +89,15 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;Smart Tomcat.Tomcat.executor&quot;: &quot;Run&quot;,
+    &quot;Smart Tomcat.Tomcat: Car_Service_and_Maintenance_Tracker-CRUD.executor&quot;: &quot;Run&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Program Files/Apache Software Foundation/Tomcat 11.0&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Facets&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/SLIIT/Y1S2/OOP/Car_Service_and_Maintenance_Tracker-CRUD/src/main/libraries/jakarta.servlet-api-5.0.0.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.20229885&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -114,16 +105,15 @@
       <recent name="F:\SLIIT\Y1S2\OOP\Assignment\src\main\libraries" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\SLIIT\Y1S2\OOP\Car_Service_and_Maintenance_Tracker-CRUD\src\main\webapp\WEB-INF" />
+      <recent name="F:\SLIIT\Y1S2\OOP\Car_Service_and_Maintenance_Tracker-CRUD\src\main\webapp" />
+      <recent name="F:\SLIIT\Y1S2\OOP\Car_Service_and_Maintenance_Tracker-CRUD\src" />
+      <recent name="F:\SLIIT\Y1S2\OOP\Car_Service_and_Maintenance_Tracker-CRUD\src\main" />
       <recent name="F:\SLIIT\Y1S2\OOP\Assignment\src\main" />
-      <recent name="F:\SLIIT\Y1S2\OOP\Assignment\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Smart Tomcat.Tomcat">
-    <configuration name="servlet-api.jar" type="JarApplication" temporary="true">
-      <option name="JAR_PATH" value="C:/Program Files/Apache Software Foundation/Tomcat 11.0/lib/servlet-api.jar!/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Tomcat" type="com.poratu.idea.plugins.tomcat">
+  <component name="RunManager">
+    <configuration name="Tomcat: Car_Service_and_Maintenance_Tracker-CRUD" type="com.poratu.idea.plugins.tomcat" temporary="true">
       <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
       <predefined_log_file enabled="true" id="Tomcat Access Log" />
       <predefined_log_file id="Tomcat Catalina Log" />
@@ -131,7 +121,7 @@
       <predefined_log_file id="Tomcat Host Manager Log" />
       <option name="catalinaBase" value="C:\Program Files\Apache Software Foundation\Tomcat 11.0" />
       <option name="contextPath" value="/Car_Service_and_Maintenance_Tracker-CRUD" />
-      <option name="docBase" value="F:\SLIIT\Y1S2\OOP\Assignment\src\main\webapp" />
+      <option name="docBase" value="F:\SLIIT\Y1S2\OOP\Car_Service_and_Maintenance_Tracker-CRUD\src\main\webapp" />
       <option name="extraClassPath" value="" />
       <option name="tomcatInfo">
         <TomcatInfo>
@@ -170,13 +160,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="JAR Application.servlet-api.jar" />
-      <item itemvalue="Smart Tomcat.Tomcat" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JAR Application.servlet-api.jar" />
+        <item itemvalue="Smart Tomcat.Tomcat: Car_Service_and_Maintenance_Tracker-CRUD" />
       </list>
     </recent_temporary>
   </component>
