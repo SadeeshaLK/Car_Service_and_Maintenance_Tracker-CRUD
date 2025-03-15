@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2db50fb8-93cb-4bbe-b0dc-3dbfdede157c" name="Changes" comment="Change Servlet functions">
-      <change afterPath="$PROJECT_DIR$/reminders.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/servlet/AddServiceServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/servlet/DeleteReminderServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/servlet/DeleteServiceServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/servlet/DeleteVehicleServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/servlet/EditReminderServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/servlet/EditServiceServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/servlet/EditVehicleServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/servlet/ReminderServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/servlet/UpdateServiceServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/servlet/UpdateVehicleServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/editService.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/manageServiceReminders.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/manageVehicles.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/upcomingServiceReminders.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/updateVehicle.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/viewServiceReminders.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/addService.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/addService.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/adminDashboard.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/adminDashboard.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/manageServices.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/manageServices.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/manageUsers.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/manageUsers.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/viewService.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/viewService.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/viewVehicles.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/viewVehicles.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="2db50fb8-93cb-4bbe-b0dc-3dbfdede157c" name="Changes" comment="added new functions" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -241,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741915407980</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added new functions">
+      <option name="closed" value="true" />
+      <created>1742012659389</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1742012659389</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -249,6 +231,7 @@
     <MESSAGE value="Updated java src files" />
     <MESSAGE value="test comment" />
     <MESSAGE value="Change Servlet functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change Servlet functions" />
+    <MESSAGE value="added new functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new functions" />
   </component>
 </project>
