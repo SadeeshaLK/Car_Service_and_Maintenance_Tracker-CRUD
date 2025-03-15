@@ -230,5 +230,6 @@
         createProgressCircle('progressVehicles', 100);
     </script>
 
+
 </body>
 </html>
