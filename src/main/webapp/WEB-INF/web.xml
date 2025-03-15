@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://java.sun.com/xml/ns/javaee" version="3.1">
+
+    <display-name>Car Service and Maintenance Tracker</display-name>
+
+    <!-- RegisterServlet Mapping -->
+    <servlet>
+        <servlet-name>RegisterServlet</servlet-name>
+        <servlet-class>servlet.RegisterServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>RegisterServlet</servlet-name>
+        <url-pattern>/RegisterServlet</url-pattern>
+    </servlet-mapping>
+
+    <!-- LoginServlet Mapping -->
+    <servlet>
+        <servlet-name>LoginServlet</servlet-name>
+        <servlet-class>servlet.LoginServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>LoginServlet</servlet-name>
+        <url-pattern>/LoginServlet</url-pattern>
+    </servlet-mapping>
+
+    <!-- LogoutServlet Mapping -->
+    <servlet>
+        <servlet-name>LogoutServlet</servlet-name>
+        <servlet-class>servlet.LogoutServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>LogoutServlet</servlet-name>
+        <url-pattern>/LogoutServlet</url-pattern>
+    </servlet-mapping>
+
+    <!-- VehicleServlet Mapping -->
+    <servlet>
+        <servlet-name>VehicleServlet</servlet-name>
+        <servlet-class>servlet.VehicleServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>VehicleServlet</servlet-name>
+        <url-pattern>/VehicleServlet</url-pattern>
+    </servlet-mapping>
+
+    <!-- ServiceServlet Mapping -->
+    <servlet>
+        <servlet-name>ServiceServlet</servlet-name>
+        <servlet-class>servlet.ServiceServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ServiceServlet</servlet-name>
+        <url-pattern>/ServiceServlet</url-pattern>
+    </servlet-mapping>
+
+    <!-- AdminServlet Mapping -->
+    <servlet>
+        <servlet-name>AdminServlet</servlet-name>
+        <servlet-class>servlet.AdminServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AdminServlet</servlet-name>
+        <url-pattern>/AdminServlet</url-pattern>
+    </servlet-mapping>
+
+    <!-- DeleteUserServlet Mapping -->
+    <servlet>
+        <servlet-name>DeleteUserServlet</servlet-name>
+        <servlet-class>servlet.DeleteUserServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DeleteUserServlet</servlet-name>
+        <url-pattern>/DeleteUserServlet</url-pattern>
+    </servlet-mapping>
+    <!--Edit User-->
+    <servlet>
+        <servlet-name>EditUserServlet</servlet-name>
+        <servlet-class>servlet.EditUserServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>EditUserServlet</servlet-name>
+        <url-pattern>/EditUserServlet</url-pattern>
+    </servlet-mapping>
+    <!--Edit Service-->
+    <servlet>
+        <servlet-name>EditServiceServlet</servlet-name>
+        <servlet-class>servlet.EditServiceServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>EditServiceServlet</servlet-name>
+        <url-pattern>/EditServiceServlet</url-pattern>
+    </servlet-mapping>
+    <!--Delete Service-->
+    <servlet>
+        <servlet-name>DeleteServiceServlet</servlet-name>
+        <servlet-class>servlet.DeleteServiceServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>DeleteServiceServlet</servlet-name>
+        <url-pattern>/DeleteServiceServlet</url-pattern>
+    </servlet-mapping>
+    <!--Update Service-->
+    <servlet>
+        <servlet-name>UpdateServiceServlet</servlet-name>
+        <servlet-class>servlet.UpdateServiceServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>UpdateServiceServlet</servlet-name>
+        <url-pattern>/UpdateServiceServlet</url-pattern>
+    </servlet-mapping>
+    <!--Delete Vehicle-->
+    <servlet>
+        <servlet-name>DeleteVehicleServlet</servlet-name>
+        <servlet-class>servlet.DeleteVehicleServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>DeleteVehicleServlet</servlet-name>
+        <url-pattern>/DeleteVehicleServlet</url-pattern>
+    </servlet-mapping>
+    <!--Edit Vehicle-->
+    <servlet>
+        <servlet-name>EditVehicleServlet</servlet-name>
+        <servlet-class>servlet.EditVehicleServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>EditVehicleServlet</servlet-name>
+        <url-pattern>/EditVehicleServlet</url-pattern>
+    </servlet-mapping>
+    <!--Update Vehicle-->
+    <servlet>
+        <servlet-name>UpdateVehicleServlet</servlet-name>
+        <servlet-class>servlet.UpdateVehicleServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>UpdateVehicleServlet</servlet-name>
+        <url-pattern>/UpdateVehicleServlet</url-pattern>
+    </servlet-mapping>
+    <!--Reminder-->
+    <servlet>
+        <servlet-name>ReminderServlet</servlet-name>
+        <servlet-class>servlet.ReminderServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>ReminderServlet</servlet-name>
+        <url-pattern>/ReminderServlet</url-pattern>
+    </servlet-mapping>
+    <!--Delete Reminder-->
+    <servlet>
+        <servlet-name>DeleteReminderServlet</servlet-name>
+        <servlet-class>servlet.DeleteReminderServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>DeleteReminderServlet</servlet-name>
+        <url-pattern>/DeleteReminderServlet</url-pattern>
+    </servlet-mapping>
+    <!--Edit Reminder-->
+    <servlet>
+        <servlet-name>EditReminderServlet</servlet-name>
+        <servlet-class>servlet.EditReminderServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>EditReminderServlet</servlet-name>
+        <url-pattern>/EditReminderServlet</url-pattern>
+    </servlet-mapping>
+    <!--Update Reminder-->
+    <servlet>
+        <servlet-name>UpdateReminderServlet</servlet-name>
+        <servlet-class>servlet.UpdateReminderServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>UpdateReminderServlet</servlet-name>
+        <url-pattern>/UpdateReminderServlet</url-pattern>
+    </servlet-mapping>
+    <!--Add Service-->
+    <servlet>
+        <servlet-name>AddServiceServlet</servlet-name>
+        <servlet-class>servlet.AddServiceServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>AddServiceServlet</servlet-name>
+        <url-pattern>/AddServiceServlet</url-pattern>
+    </servlet-mapping>
+
+
+    <!-- Welcome Page -->
+    <welcome-file-list>
+        <welcome-file>index.jsp</welcome-file>
+    </welcome-file-list>
+
+</web-app>
