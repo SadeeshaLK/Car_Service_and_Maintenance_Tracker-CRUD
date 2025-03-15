@@ -192,6 +192,17 @@
         <servlet-name>AddServiceServlet</servlet-name>
         <url-pattern>/AddServiceServlet</url-pattern>
     </servlet-mapping>
+    <!--Update User-->
+    <servlet>
+        <servlet-name>UpdateUserServlet</servlet-name>
+        <servlet-class>servlet.UpdateUserServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>UpdateUserServlet</servlet-name>
+        <url-pattern>/UpdateUserServlet</url-pattern>
+    </servlet-mapping>
+
 
 
     <!-- Welcome Page -->
