@@ -4,30 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2db50fb8-93cb-4bbe-b0dc-3dbfdede157c" name="Changes" comment="test comment">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jakarta_servlet_api_5_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/servlet/EditUserServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/servlet/UpdateUserServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/editUser.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Car_Service_and_Maintenance_Tracker-CRUD.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Car_Service_and_Maintenance_Tracker-CRUD.iml" afterDir="false" />
+    <list default="true" id="2db50fb8-93cb-4bbe-b0dc-3dbfdede157c" name="Changes" comment="Change Servlet functions">
+      <change afterPath="$PROJECT_DIR$/reminders.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/servlet/AddServiceServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/servlet/DeleteReminderServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/servlet/DeleteServiceServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/servlet/DeleteVehicleServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/servlet/EditReminderServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/servlet/EditServiceServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/servlet/EditVehicleServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/servlet/ReminderServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/servlet/UpdateServiceServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/servlet/UpdateVehicleServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/editService.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/manageServiceReminders.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/manageVehicles.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/upcomingServiceReminders.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/updateVehicle.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/viewServiceReminders.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/model/ServiceHistory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/model/ServiceHistory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/services.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/servlet/AdminServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/servlet/DeleteUserServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/servlet/LoginServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/servlet/LogoutServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/servlet/RegisterServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/servlet/ServiceServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/servlet/VehicleServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/users.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/vehicles.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/addService.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/addService.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/adminDashboard.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/adminDashboard.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/manageServices.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/manageServices.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/manageUsers.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/manageUsers.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/viewService.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/viewService.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/viewVehicles.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/viewVehicles.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/web.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,13 +233,22 @@
       <option name="project" value="LOCAL" />
       <updated>1740473607987</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Change Servlet functions">
+      <option name="closed" value="true" />
+      <created>1741915407980</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1741915407980</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created direcotories" />
     <MESSAGE value="Updated java src files" />
     <MESSAGE value="test comment" />
-    <option name="LAST_COMMIT_MESSAGE" value="test comment" />
+    <MESSAGE value="Change Servlet functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change Servlet functions" />
   </component>
 </project>

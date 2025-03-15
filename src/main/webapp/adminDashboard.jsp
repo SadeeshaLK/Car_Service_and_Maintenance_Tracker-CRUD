@@ -9,6 +9,8 @@
     <div class="text-center mt-4">
         <a href="manageUsers.jsp" class="btn btn-danger">Manage Users</a>
         <a href="manageServices.jsp" class="btn btn-warning">Manage Services</a>
+        <a href="manageVehicles.jsp" class="btn btn-danger">Manage Vehicles</a>
+        <a href="manageServiceReminders.jsp" class="btn btn-warning">Manage Service Reminders</a>
         <a href="LogoutServlet" class="btn btn-secondary">Logout</a>
     </div>
 </body>
