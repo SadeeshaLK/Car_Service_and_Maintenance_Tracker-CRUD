@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2db50fb8-93cb-4bbe-b0dc-3dbfdede157c" name="Changes" comment="added new functions" />
+    <list default="true" id="2db50fb8-93cb-4bbe-b0dc-3dbfdede157c" name="Changes" comment="added new functions">
+      <change afterPath="$PROJECT_DIR$/src/main/servlet/UpdateReminderServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reminders.txt" beforeDir="false" afterPath="$PROJECT_DIR$/reminders.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/editReminder.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/editReminder.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +46,9 @@
     <option name="FILTER_INFO" value="true" />
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -223,7 +231,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742012659389</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="added new functions">
+      <option name="closed" value="true" />
+      <created>1742012739208</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1742012739208</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

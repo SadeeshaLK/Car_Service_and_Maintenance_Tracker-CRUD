@@ -3,9 +3,10 @@
 
 <html>
 <head>
-    <title>Edit Reminder</title>
+    <title>Edit Service Reminder</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
-<body>
+<body class="container mt-5">
     <h2>Edit Service Reminder</h2>
 
     <% String reminderToEdit = (String) request.getAttribute("reminderToEdit");
@@ -16,14 +17,16 @@
         <input type="hidden" name="vehicleID" value="<%= parts[0] %>">
 
         <label>Next Service Date:</label>
-        <input type="date" name="nextServiceDate" value="<%= parts[1] %>">
+        <input type="date" class="form-control" name="nextServiceDate" value="<%= parts[1].equals("N/A") ? "" : parts[1] %>">
 
         <label>Next Service Mileage:</label>
-        <input type="number" name="nextServiceMileage" value="<%= parts[2] %>">
+        <input type="number" class="form-control" name="nextServiceMileage" value="<%= parts[2].equals("N/A") ? "" : parts[2] %>">
 
-        <button type="submit">Update</button>
+        <button type="submit" class="btn btn-primary mt-3">Update Reminder</button>
     </form>
 
-    <a href="manageServiceReminders.jsp">Back</a>
+    <div class="mt-3">
+        <a href="manageServiceReminders.jsp" class="btn btn-secondary">Back to Manage Service Reminders</a>
+    </div>
 </body>
 </html>
