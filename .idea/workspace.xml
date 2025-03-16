@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2db50fb8-93cb-4bbe-b0dc-3dbfdede157c" name="Changes" comment="Update web.xml">
+    <list default="true" id="2db50fb8-93cb-4bbe-b0dc-3dbfdede157c" name="Changes" comment="Updated frontend">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reminders.txt" beforeDir="false" afterPath="$PROJECT_DIR$/reminders.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/addVehicle.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/addVehicle.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/adminDashboard.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/adminDashboard.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/register.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/viewService.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/viewService.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/viewServiceReminders.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/viewServiceReminders.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/viewVehicles.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/viewVehicles.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -272,7 +274,31 @@
       <option name="project" value="LOCAL" />
       <updated>1742031880414</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Update web.xml">
+      <option name="closed" value="true" />
+      <created>1742035498539</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1742035498539</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Update web.xml">
+      <option name="closed" value="true" />
+      <created>1742035545353</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1742035545353</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Updated frontend">
+      <option name="closed" value="true" />
+      <created>1742035592248</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1742035592248</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -285,6 +311,7 @@
     <MESSAGE value="Added txt files" />
     <MESSAGE value="Added libraries" />
     <MESSAGE value="Update web.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update web.xml" />
+    <MESSAGE value="Updated frontend" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated frontend" />
   </component>
 </project>
